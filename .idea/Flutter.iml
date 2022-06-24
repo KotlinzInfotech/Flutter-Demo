@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/phone_authentaction/build" />
+      <excludeFolder url="file://$MODULE_DIR$/phone_authentaction/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/shared_preferance/build" />
+      <excludeFolder url="file://$MODULE_DIR$/shared_preferance/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/state_managment/build" />
+      <excludeFolder url="file://$MODULE_DIR$/state_managment/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/in_app_purchase/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/in_app_purchase/build" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar_example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/tabbar_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/image_capture/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/image_capture/build" />
+      <excludeFolder url="file://$MODULE_DIR$/riverpod_with_api/build" />
+      <excludeFolder url="file://$MODULE_DIR$/riverpod_with_api/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/firebase_demo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/strimbuilder/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/strimbuilder/build" />
+      <excludeFolder url="file://$MODULE_DIR$/razorpay_demo/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/razorpay_demo/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lottie_animation/build" />
+      <excludeFolder url="file://$MODULE_DIR$/lottie_animation/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sqlite_db/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/sqlite_db/build" />
+      <excludeFolder url="file://$MODULE_DIR$/facelock/build" />
+      <excludeFolder url="file://$MODULE_DIR$/facelock/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/food_order_ui-master/food_order_ui-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/food_order_ui-master/food_order_ui-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/video_editor-master/example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/video_editor-master/example/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mvvm_architecture/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/mvvm_architecture/build" />
+      <excludeFolder url="file://$MODULE_DIR$/inline_banner/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/inline_banner/build" />
+      <excludeFolder url="file://$MODULE_DIR$/video_editor-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/video_editor-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_ui_collection-master/flutter_ui_collection-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_ui_collection-master/flutter_ui_collection-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-image-editor-master/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter-image-editor-master/build" />
+      <excludeFolder url="file://$MODULE_DIR$/native_banner_inline/build" />
+      <excludeFolder url="file://$MODULE_DIR$/native_banner_inline/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/statemanagment_getx/build" />
+      <excludeFolder url="file://$MODULE_DIR$/statemanagment_getx/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/rest_api_example/build" />
+      <excludeFolder url="file://$MODULE_DIR$/rest_api_example/.pub" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
